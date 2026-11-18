@@ -1,5 +1,5 @@
 package modulsaidhello
 
-func SayHello() string {
+func Said() string {
 	return "Hi, Selamat Datang Reza Biba Luiz"
 }
