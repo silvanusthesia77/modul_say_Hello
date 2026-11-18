@@ -1,5 +1,5 @@
 package modulsaidhello
 
 func Said() string {
-	return "Hi, Selamat Datang Reza Biba Luiz"
+	return "Hi, Welcome Biba Reza Luiz.....!!!"
 }
